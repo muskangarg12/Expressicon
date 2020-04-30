@@ -5,8 +5,6 @@ This app is built using Python 3 and Flask along with OpenCV and Tensorflow.
 
 ## To run the app locally
 
-```bash
-git clone https://github.com/muskangarg12/Expressicon.git
-cd Expressicon
-python main.py 
-```
+1. Clone this repo
+2. Change you directory : `cd Expressicon`
+3. Run `python main.py`
